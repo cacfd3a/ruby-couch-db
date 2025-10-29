@@ -6,8 +6,8 @@ require 'couch/db/version'
 Gem::Specification.new do |spec|
   spec.name = 'couch-db'
   spec.version = Couch::DB::VERSION
-  spec.authors = ['Maarten Trompper']
-  spec.email = ['maartentrompper@gmail.com']
+  spec.authors = ['cacfd3a']
+  spec.email = ['cacfd3a@duck.com']
 
   spec.required_ruby_version = '>= 1.9'
 
