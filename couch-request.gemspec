@@ -13,7 +13,7 @@ Gem::Specification.new do |spec|
 
   spec.summary = %q{Interface with a CouchDB database. Focuses on bulk requests.}
   # spec.description   = %q{Write a longer description or delete this line.}
-  spec.homepage = 'https://github.com/digitalheir/couch-request'
+  spec.homepage = 'https://github.com/cacfd3a/couch-request'
   spec.license = 'MIT'
 
   # # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
