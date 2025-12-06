@@ -1,5 +1,5 @@
 # Ruby CouchDB
-[![Build Status](https://travis-ci.org/digitalheir/ruby-couch-db.svg)](https://travis-ci.org/digitalheir/ruby-couch-db)
+[![Build Status](https://travis-ci.org/cacfd3a/ruby-couch-db.svg)](https://travis-ci.org/cacfd3a/ruby-couch-db)
 [![Code Climate](https://codeclimate.com/repos/557eed7de30ba02ffe010520/badges/11baa9055d509aedf45d/gpa.svg)](https://codeclimate.com/repos/557eed7de30ba02ffe010520/feed)
 [![Test Coverage](https://codeclimate.com/repos/557eed7de30ba02ffe010520/badges/11baa9055d509aedf45d/coverage.svg)](https://codeclimate.com/repos/557eed7de30ba02ffe010520/coverage)
 
@@ -113,7 +113,7 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/digitalheir/ruby-couch-db. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
+Bug reports and pull requests are welcome on GitHub at https://github.com/cacfd3a/ruby-couch-db. This project is intended to be a safe, welcoming space for collaboration, and contributors are expected to adhere to the [Contributor Covenant](contributor-covenant.org) code of conduct.
 
 
 ## License
